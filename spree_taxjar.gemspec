@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'capybara', '~> 2.6'
   s.add_development_dependency 'coffee-rails', '~> 4.2.1'
-  s.add_development_dependency 'database_cleaner', '~> 1.6'
+  s.add_development_dependency 'database_cleaner', '~> 2.0'
   s.add_development_dependency 'factory_bot', '~> 4.10'
   s.add_development_dependency 'ffaker', '~> 2.9'
   s.add_development_dependency 'rspec-rails', '4.0.0.beta3'
