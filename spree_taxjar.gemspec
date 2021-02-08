@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'ffaker', '~> 2.9'
   s.add_development_dependency 'rspec-rails', '4.0.0.beta3'
   s.add_development_dependency 'sass-rails', '~> 5.0.0'
-  s.add_development_dependency 'selenium-webdriver', '~> 2.53.4'
+  s.add_development_dependency 'selenium-webdriver', '~> 3.142.7'
   s.add_development_dependency 'simplecov', '~> 0.12.0'
   s.add_development_dependency 'sqlite3', '~> 1.4'
   s.add_development_dependency 'shoulda-matchers'
