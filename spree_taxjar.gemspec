@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rspec-rails', '4.0.0.beta3'
   s.add_development_dependency 'sass-rails', '~> 5.0.0'
   s.add_development_dependency 'selenium-webdriver', '~> 2.53.4'
-  s.add_development_dependency 'simplecov', '~> 0.12.0'
+  s.add_development_dependency 'simplecov', '~> 0.21.2'
   s.add_development_dependency 'sqlite3', '~> 1.4'
   s.add_development_dependency 'shoulda-matchers'
   s.add_development_dependency 'rspec-activemodel-mocks'
